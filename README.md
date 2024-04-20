@@ -1,4 +1,4 @@
-# Hi, I'm Tukjiu.
+# Hi, I'm TukJiu.
 I'm going to biuld a small Internet system. 
 The content will filter by ai.
 
